@@ -1,0 +1,6 @@
+{
+  "name": "diffyn",
+  "description": "Diffyn integration for Claude Code: local Rust MCP server and task-support skill",
+  "version": "0.1.0",
+  "license": "MIT"
+}
